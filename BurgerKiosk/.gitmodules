@@ -1,0 +1,3 @@
+[submodule "BurgerKiosk"]
+	path = BurgerKiosk
+	url = https://github.com/hj78080/burger_kiosk.git

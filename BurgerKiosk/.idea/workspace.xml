@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49df9fc0-bbfd-4652-a2bb-b92746d3a961" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BurgerKiosk" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/burger_kiosk" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Uun6eFEqKvNh2dNiWwI9WnUSLs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hj780/IdeaProjects/burgerkiosk/BurgerKioskOrder&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/hj780/IdeaProjects/BurgerKiosk/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.app.Main" />
+      <module name="BurgerKiosk.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49df9fc0-bbfd-4652-a2bb-b92746d3a961" name="Changes" comment="" />
+      <created>1693798160932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693798160932</updated>
+      <workItem from="1693798161986" duration="811000" />
+      <workItem from="1693813876165" duration="3667000" />
+      <workItem from="1693886806935" duration="6281000" />
+      <workItem from="1693893862698" duration="1845000" />
+      <workItem from="1693896077481" duration="347000" />
+      <workItem from="1693898600546" duration="497000" />
+      <workItem from="1693907454912" duration="2696000" />
+      <workItem from="1693917245173" duration="12642000" />
+      <workItem from="1693958392455" duration="3948000" />
+      <workItem from="1693965472812" duration="4166000" />
+      <workItem from="1693969697836" duration="417000" />
+      <workItem from="1693971730854" duration="295000" />
+      <workItem from="1693972457335" duration="501000" />
+      <workItem from="1693980090324" duration="4986000" />
+      <workItem from="1693990160404" duration="1591000" />
+      <workItem from="1693991785845" duration="33000" />
+      <workItem from="1693991830031" duration="658000" />
+      <workItem from="1693992514325" duration="7226000" />
+      <workItem from="1694064625890" duration="457000" />
+      <workItem from="1694065676242" duration="3272000" />
+      <workItem from="1694069211828" duration="936000" />
+      <workItem from="1694071219624" duration="42000" />
+      <workItem from="1694071276895" duration="3722000" />
+      <workItem from="1694075932637" duration="2590000" />
+      <workItem from="1694079729984" duration="2311000" />
+      <workItem from="1694086571247" duration="505000" />
+      <workItem from="1694087848876" duration="5384000" />
+      <workItem from="1694099246870" duration="6377000" />
+      <workItem from="1694116402075" duration="6254000" />
+      <workItem from="1694147817185" duration="410000" />
+      <workItem from="1694148271482" duration="34000" />
+      <workItem from="1694148646820" duration="1267000" />
+      <workItem from="1694163247874" duration="3013000" />
+      <workItem from="1694166303785" duration="518000" />
+      <workItem from="1694244944107" duration="5038000" />
+      <workItem from="1694257566185" duration="400000" />
+      <workItem from="1694259132024" duration="360000" />
+      <workItem from="1694260147253" duration="4361000" />
+      <workItem from="1694269665497" duration="4710000" />
+      <workItem from="1694274984497" duration="500000" />
+      <workItem from="1694333809025" duration="306000" />
+      <workItem from="1694340242941" duration="179000" />
+      <workItem from="1694366718375" duration="720000" />
+      <workItem from="1694391902890" duration="1383000" />
+      <workItem from="1694393597060" duration="1187000" />
+      <workItem from="1694396158636" duration="322000" />
+      <workItem from="1694396549678" duration="897000" />
+      <workItem from="1694400747476" duration="328000" />
+      <workItem from="1694403317776" duration="789000" />
+      <workItem from="1694404897219" duration="4525000" />
+      <workItem from="1694414912878" duration="1797000" />
+      <workItem from="1694419074831" duration="1097000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
