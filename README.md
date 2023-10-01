@@ -8,5 +8,5 @@ Kiosk with Java swing GUI
 - 주문 목록 excel export
 
 # result
-<img src="https://github.com/hj78080/burger_kiosk/assets/137899379/5df2c321-097e-42b6-8a03-9269d833845f" style="hight: 80%;">
-<img src="https://github.com/hj78080/burger_kiosk/assets/137899379/f9ea2e77-0ade-48d3-b3ae-4fafdb2264b7" style="hight: 80%;">
+<img src="https://github.com/hj78080/burger_kiosk/assets/137899379/5df2c321-097e-42b6-8a03-9269d833845f" style="hight: 60%;">
+<img src="https://github.com/hj78080/burger_kiosk/assets/137899379/f9ea2e77-0ade-48d3-b3ae-4fafdb2264b7" style="hight: 60%;">
