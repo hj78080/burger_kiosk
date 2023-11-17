@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49df9fc0-bbfd-4652-a2bb-b92746d3a961" name="Changes" comment="" />
+    <list default="true" id="49df9fc0-bbfd-4652-a2bb-b92746d3a961" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/components/MenuPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/components/Receipt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/components/Banner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/components/Banner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/components/GeneralFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/components/GeneralFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/components/MenuPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/components/MenuTab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/components/OrderList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/components/OrderList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/components/PurchasedListIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/components/PurchasedListIO.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +49,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/burger_kiosk" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -53,22 +62,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hj780/IdeaProjects/burgerkiosk/BurgerKioskOrder&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/hj780/IdeaProjects/BurgerKiosk/src/main/java/org/example/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/hj780/IdeaProjects/burgerkiosk/BurgerKioskOrder",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/hj780/IdeaProjects/BurgerKiosk/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.app.Main" />
@@ -148,7 +157,24 @@
       <workItem from="1694403317776" duration="789000" />
       <workItem from="1694404897219" duration="4525000" />
       <workItem from="1694414912878" duration="1797000" />
-      <workItem from="1694419074831" duration="1097000" />
+      <workItem from="1694419074831" duration="1755000" />
+      <workItem from="1694565466184" duration="612000" />
+      <workItem from="1694590667614" duration="85000" />
+      <workItem from="1694941458301" duration="52000" />
+      <workItem from="1695777915573" duration="149000" />
+      <workItem from="1696143124439" duration="193000" />
+      <workItem from="1696145351405" duration="1098000" />
+      <workItem from="1699339624530" duration="2122000" />
+      <workItem from="1699836875418" duration="1636000" />
+      <workItem from="1699841567327" duration="4683000" />
+      <workItem from="1699854250665" duration="1333000" />
+      <workItem from="1699897734583" duration="2424000" />
+      <workItem from="1699931185524" duration="2715000" />
+      <workItem from="1699935972904" duration="1647000" />
+      <workItem from="1699960795046" duration="369000" />
+      <workItem from="1700007583942" duration="3267000" />
+      <workItem from="1700026496458" duration="765000" />
+      <workItem from="1700160113680" duration="13075000" />
     </task>
     <servers />
   </component>

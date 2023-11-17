@@ -19,7 +19,7 @@ public class OrderList extends JPanel{
     private JPanel purchasePanel;
     private JPanel labelPanel;
     private JScrollPane scrollPane;
-    private static JLabel totalCostLabel;
+    public static JLabel totalCostLabel;
     private int orderNum;
 
     public OrderList(JFrame frame) {
@@ -70,7 +70,7 @@ public class OrderList extends JPanel{
 
         scrollPane = new JScrollPane();
         scrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
-        scrollPane.setPreferredSize(new Dimension(450, 200));
+        scrollPane.setPreferredSize(new Dimension(450, 150));
         scrollPane.setViewportView(listPanel);
     }
 
@@ -185,14 +185,15 @@ public class OrderList extends JPanel{
     }
     
     //결제 시 필요한 함수. 결제 및 주문 번호 부여
-    private void purchaseClicked(){
+    private void purchaseClicked() {
         DecimalFormat orderNumFormat = new DecimalFormat("000");
-        
+
         //부여받는 주문 번호가 1~999로 나오게 함
-        if(orderNum == 1000) orderNum = 0;
+        if (orderNum == 1000) orderNum = 0;
         SendOrder.send(orderNumFormat.format(++orderNum));
         PurchasedListIO.readWrite();
 
-        JOptionPane.showMessageDialog(null, "<html>결제가 완료되었습니다.<br>주문 번호 " + orderNumFormat.format(orderNum) +"</html>");
+        JOptionPane.showMessageDialog(null, "<html>결제가 완료되었습니다.<br>주문 번호 " + orderNumFormat.format(orderNum) + "</html>");
+        new Receipt();
     }
 }

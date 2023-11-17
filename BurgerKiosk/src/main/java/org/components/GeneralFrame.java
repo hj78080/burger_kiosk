@@ -29,7 +29,7 @@ public class GeneralFrame extends JFrame {
         }
 
         new Banner(this);
-        new MenuPane(this);
+        new MenuTab(this);
         new OrderList(this);
 
         setVisible(true);
