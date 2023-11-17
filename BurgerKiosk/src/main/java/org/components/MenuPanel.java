@@ -51,9 +51,9 @@ public class MenuPanel extends JPanel {
             if(i < itemList.size()) {
                 MenuItem item = itemList.get(i);
                 String path = item.image();
-                System.out.println(path);
                 ImageIcon imageIcon = (path == null) ?
-                        new ImageIcon() : new ImageIcon(Objects.requireNonNull(getClass().getResource(item.image())));
+                        new ImageIcon(Objects.requireNonNull(getClass().getResource("/burger1.png")))
+                        : new ImageIcon(Objects.requireNonNull(getClass().getResource(item.image())));
 
                 buttons[i].setText(
                         "<html><center>" + item.menu() + "<br>" + item.getFormattedCost()+"</center></html>");

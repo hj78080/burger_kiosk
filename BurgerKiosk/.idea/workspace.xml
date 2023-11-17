@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49df9fc0-bbfd-4652-a2bb-b92746d3a961" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/components/MenuPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/components/Receipt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/components/Banner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/components/Banner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/components/GeneralFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/components/GeneralFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/components/MenuPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/components/MenuTab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/components/OrderList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/components/OrderList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/components/PurchasedListIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/components/PurchasedListIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/components/MenuPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/components/MenuPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/components/MenuTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/components/MenuTab.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +69,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/hj780/IdeaProjects/BurgerKiosk/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "File.Encoding",
+    "settings.editor.selected.configurable": "terminal",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -175,11 +170,35 @@
       <workItem from="1700007583942" duration="3267000" />
       <workItem from="1700026496458" duration="765000" />
       <workItem from="1700160113680" duration="13075000" />
+      <workItem from="1700208620664" duration="2650000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

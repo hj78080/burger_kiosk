@@ -63,7 +63,7 @@ public class MenuTab {
 
                     String menu = row.getCell(0).getStringCellValue();
                     int cost = (int) row.getCell(1).getNumericCellValue();
-                    String image = row.getCell(2).getStringCellValue();
+                    String image = row.getCell(2) == null ? null : row.getCell(2).getStringCellValue();
 
                     listMap.get(sheetName).add(new MenuItem(menu, cost, image));
                 }
