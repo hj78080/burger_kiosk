@@ -11,7 +11,7 @@ Kiosk with Java swing GUI
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/hj78080/burger_kiosk/assets/137899379/5437f9f2-ef39-4f43-b45e-b41ff58e8b5e" style="height: 400px; width: auto;">
     <img src="https://github.com/hj78080/burger_kiosk/assets/137899379/02c7a90e-d8ae-464a-b42d-46fcab4f68bf" style="height: 400px; width: auto;">
-    <img src="https://github.com/hj78080/burger_kiosk/assets/137899379/16d1d17a-1ac6-48e6-ba38-7d512464b357" style="height: 290px; width: auto;">
+    <img src="https://github.com/hj78080/burger_kiosk/assets/137899379/16d1d17a-1ac6-48e6-ba38-7d512464b357" style="height: 293px; width: auto;">
 </div>
 
 (img reference - Burger King)
